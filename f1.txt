@@ -1,1 +1,2 @@
 hello from local machine
+hello from git repo in master branch
